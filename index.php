@@ -40,8 +40,8 @@ header("Refresh:7");
 
 <script type="text/javascript">
 	$(document).ready(function(){
-		$('#cargaLineal').load('lineal.php');
-		$('#cargaBarras').load('barras.php');
+		//$('#cargaLineal').load('lineal.php');
+	//	$('#cargaBarras').load('barras.php');
 //		$('#cargaBarras2').load('barras0.php');
 	});
 </script>
